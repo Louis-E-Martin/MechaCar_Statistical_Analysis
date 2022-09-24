@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 The varibles that had a noticble effect on the MPG in our mechaCar dataset where the Spolier angle, Weather it had AWD or not, and the vehical weight. The slope is not considered to be zero because our P value is well within the .05 range. The model does a decent job of predicting the mpg of cars with a R-squared value of .7149. This gives us confidence that we will be able to guess a realtivly accurate mpg for any car.\
 
-![linear regression](http://url/to/img.png)
+![linear regression](https://github.com/Louis-E-Martin/MechaCar_Statistical_Analysis/blob/main/liner_regression.PNG)
 
 ## Summary Statistics on Suspension Coils
 From what we can see the variance is low enough overall to meet our 100 goal but lot three fails to complete this test with a variance above 100.
