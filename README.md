@@ -7,6 +7,8 @@ The varibles that had a noticble effect on the MPG in our mechaCar dataset where
 
 ## Summary Statistics on Suspension Coils
 From what we can see the variance is low enough overall to meet our 100 goal but lot three fails to complete this test with a variance above 100.
+
+
 ![Total_Summary](https://github.com/Louis-E-Martin/MechaCar_Statistical_Analysis/blob/main/Total_summary.PNG)
 ![Lot Summary](https://github.com/Louis-E-Martin/MechaCar_Statistical_Analysis/blob/main/lot_summary.PNG)
 
